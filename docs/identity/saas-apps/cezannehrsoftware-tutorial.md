@@ -80,10 +80,10 @@ Follow these steps to enable Microsoft Entra SSO.
 1. On the **Basic SAML Configuration** section, perform the following steps:
 
 	a. In the **Sign on URL** text box, type a URL using the following pattern:
-    `https://w3.cezanneondemand.com/CezanneOnDemand/-/<tenantidentifier>`
+    `https://w3.cezanneondemand.com/cezanneondemand/-/<tenantidentifier>`
 
     b. In the **Identifier (Entity ID)** text box, type the URL:
-    `https://w3.cezanneondemand.com/CezanneOnDemand/`
+    `https://w3.cezanneondemand.com/cezanneondemand/`
 
 	c. In the **Reply URL** textbox, type a URL using the following pattern: `https://w3.cezanneondemand.com:443/cezanneondemand/-/<tenantidentifier>/Saml/samlp`
 	
